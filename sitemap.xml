@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://programming-21.mooc.fi/vocabulary</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/virheilmoitukset</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/verkkotentti</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/usein-kysytyt-kysymykset</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/tuki</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://programming-21.mooc.fi/sanasto</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/part-2/4-yksinkertainen-silmukka</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/part-2/3-ehtojen-yhdistäminen</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/part-2/2-else-elif</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
