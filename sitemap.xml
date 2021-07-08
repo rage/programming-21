@@ -5,6 +5,11 @@
 <url> <loc>https://programming-21.mooc.fi/verkkotentti</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/usein-kysytyt-kysymykset</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/tuki</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://programming-21.mooc.fi/part-3/4-defining-functions</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://programming-21.mooc.fi/part-3/3-more-loops</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://programming-21.mooc.fi/part-3/2-working-with-strings</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://programming-21.mooc.fi/part-3/1-iteration-using-conditions</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://programming-21.mooc.fi/part-3</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/part-2/4-simple-loops</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/part-2/3-combining-conditions</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/part-2/2-else-elif</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -53,11 +58,6 @@
 <url> <loc>https://programming-21.mooc.fi/osa-4/2-lisaa-funktioista</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/osa-4/1-vscode</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/osa-4</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://programming-21.mooc.fi/osa-3/4-omat-funktiot</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://programming-21.mooc.fi/osa-3/3-lisaa-silmukoista</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://programming-21.mooc.fi/osa-3/2-merkkijonojen-kasittely</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://programming-21.mooc.fi/osa-3/1-ehdot-silmukoissa</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://programming-21.mooc.fi/osa-3</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/osa-14/4-oma-peli</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/osa-14/3-pelin-viimeistely</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/osa-14/2-robo-ja-laatikot</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
