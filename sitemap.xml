@@ -9,6 +9,7 @@
 <url> <loc>https://programming-21.mooc.fi/part-5/3-dictionary</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/part-5/2-Referencing</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/part-5/1-more-lists</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://programming-21.mooc.fi/part-5</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/part-4/6-strings-and-lists</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/part-4/5-print-statement-formatting</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/part-4/4-definite-iteration</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -57,7 +58,6 @@
 <url> <loc>https://programming-21.mooc.fi/osa-6/2-tiedostojen-kirjoittaminen</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/osa-6/1-tiedostojen-lukeminen</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/osa-6</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://programming-21.mooc.fi/osa-5</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/osa-14/4-oma-peli</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/osa-14/3-pelin-viimeistely</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/osa-14/2-robo-ja-laatikot</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
