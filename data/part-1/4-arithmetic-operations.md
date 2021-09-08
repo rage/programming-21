@@ -46,7 +46,7 @@ prints out
 
 ## Operands, operators and data types
 
-A calculation usually consists of *operands* ja *operators*:
+A calculation usually consists of *operands* and *operators*:
 
 <img src="1_5.png">
 
@@ -54,7 +54,7 @@ The data type of an operand usually determines the data type of the result: if t
 
 Division `/` is an exception to this rule. Its result is a floating point number, even if the operands are integers. For example `1 / 5` will result in the floating point number `0.2`.
 
-Esimerkki:
+Example:
 
 ```python
 height = 172.5
@@ -232,13 +232,13 @@ This allows us to write the above program a little more concisely::
 ```python
 sum = 0
 
-luku = int(input("First number: "))
+number = int(input("First number: "))
 sum += number
 
-luku = int(input("Second number: "))
+number = int(input("Second number: "))
 sum += number
 
-luku = int(input("Third number: "))
+number = int(input("Third number: "))
 sum += number
 
 print(f"The sum of the numbers: {sum}")
