@@ -13,9 +13,9 @@ After this section
 
 </text-box>
 
-Thus far all exercises on this course have been completed on the course pages in embedded editor windows. Programming in the browser is very suitable for the first steps in programming, but now it is time to start using a separate editor especially made for programming.
+Thus far, all exercises on this course have been completed on the course pages in embedded editor windows. Programming in the browser is very suitable for the first steps in programming, but now it is time to start using a separate editor especially made for programming.
 
-There are dozens of different editors that are suited to programming. On this course we will use the [Visual Studio Code](https://code.visualstudio.com/) editor, which has been gaining traction in recent years.
+There are dozens of different editors that are suited to programming. On this course, we will use the [Visual Studio Code](https://code.visualstudio.com/) editor, which has been gaining traction in recent years.
 
 Please install the Visual Studio Code editor on your own computer now. You will also need the TMC plugin, which will take care of running the tests that go with the exercises. [Here is a guide](https://www.mooc.fi/en/installation/vscode) for installing and running both. Read the instructions on working on and submitting exercises and complete the task below:
 
@@ -77,13 +77,13 @@ Starting up the interpreter sometimes depends on your platform. In a Linux or Ma
 
 <img src="4_1_1.png">
 
-It is also possible to start the interpreter inside Visual Studio Code. First you should execute a program by clicking on the green triangle. This should open a _Terminal_ section on your screen, where you can now type in `python3` (or `python`):
+It is also possible to start the interpreter inside Visual Studio Code. First you should execute a program by clicking on the green triangle. This should open a _terminal_ section on your screen, where you can now type in `python3` (or `python`):
 
 <img src="4_1_2.png">
 
 You can also try a browser-based Python interpreter, such as <https://www.python.org/shell/>.
 
-The interpreter is a way of executing Python code line by line as soon as you write it. When you write a line of code and press _Enter_, the interpreter executes the code right away and shows you the results:
+The interpreter is a way of executing Python code line by line as soon as you write it. When you write a line of code and press _enter_, the interpreter executes the code right away and shows you the results:
 
 <img src="4_1_3.png">
 
@@ -173,8 +173,6 @@ Let's try a few of them, `reverse` and `clear` seem promising:
 []
 ```
 
-As you can see, these methods do pretty much what you would expect based on their names.
-
 Notice how the interpreter doesn't print out anything when you run the command `numbers.reverse()`. Why is that? The interpreter prints something out only if the line of code has a value. In the above example we printed out the value of the list `numbers` by typing in just the name of the variable. In fact, it is rarely necessary to explicitly type in `print` commands in the interpreter. Neither is it wrong to include them, however.
 
 Remember to close the interpreter when you are finished. The commands `quit()` or `exit()` will close it, as will the key combo _Control_+_D_ (Linux/Mac) or _Control_+_Z_ (Windows). Especially in Visual Studio Code this is important, as trying to execute another Python program while the interpreter is still running results in a rather cryptic error message:
@@ -185,7 +183,7 @@ Remember to close the interpreter when you are finished. The commands `quit()` o
 
 We have already spent a fair amount of time and effort on developing debugging skills, mainly through print statement debugging. The Visual Studio Code editor has another tool at your disposal: a built-in _visual debugger_.
 
-To start debugging first you have to define a _breakpoint_ in your code. A breakpoint is a point in your program where the debugger halts execution. You can set a breakpoint by clicking on the left edge of any line in your program.
+To start debugging first you have to define a _breakpoint_ in your code. A breakpoint is a point in your program where the debugger pauses execution. You can set a breakpoint by clicking on the left edge of any line in your program.
 
 The following example is a slightly faulty attempt at solving the exercise _The sum of consecutive numbers_ in the [previous part](/part-3/1-loops-with-conditions). There is a breakpoint on line 5:
 
