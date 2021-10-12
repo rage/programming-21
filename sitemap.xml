@@ -22,6 +22,7 @@
 <url> <loc>https://programming-21.mooc.fi/part-6/3-errors</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/part-6/2-writing-files</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/part-6/1-reading-files</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://programming-21.mooc.fi/part-6</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/part-5/4-tuple</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/part-5/3-dictionary</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/part-5/2-references</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
