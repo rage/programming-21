@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://programming-21.mooc.fi/support-and-assistance</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://programming-21.mooc.fi/part-9/6-lisaa-esimerkkeja</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://programming-21.mooc.fi/part-9/5-staattiset-piirteet</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://programming-21.mooc.fi/part-9/4-metodien-nakyvyys</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://programming-21.mooc.fi/part-9/3-kapselointi</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://programming-21.mooc.fi/part-9/2-oliot-attribuuttina</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://programming-21.mooc.fi/part-9/1-oliot-ja-viittaukset</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://programming-21.mooc.fi/part-9/6-more-examples-with-classes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://programming-21.mooc.fi/part-9/5-class-attributes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://programming-21.mooc.fi/part-9/4-scope-of-methods</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://programming-21.mooc.fi/part-9/3-encapsulation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://programming-21.mooc.fi/part-9/2-objects-as-attributes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://programming-21.mooc.fi/part-9/1-objects-and-references</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/part-8/5-more-examples-of-classes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/part-8/4-defining-methods</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-21.mooc.fi/part-8/3-defining-classes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
