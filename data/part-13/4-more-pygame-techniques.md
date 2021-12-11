@@ -8,7 +8,7 @@ hidden: false
 
 After this section
 
-- You will know how the title of the pygame window
+- You will know how to change the title of the pygame window
 - You will be able to draw shapes with pygame
 - You will know how to display text in your window
 
@@ -24,7 +24,7 @@ pygame.display.set_caption("Great Adventure")
 
 ## Drawing shapes
 
-The following program draws a reactangle, a circle and a line on the screen:
+The following program draws a rectangle, a circle and a line on the screen:
 
 ```python
 import pygame
@@ -77,7 +77,7 @@ Running the above code should look like this:
 
 Here the method `pygame.font.SysFont` creates a font object, which uses the system font Arial in size 24. The the method `render` creates an image of the specified text in the given colour. This image is drawn on the window with the `blit` method, just as before.
 
-NB: different systems will have different fonts available. If the system this program is exeuted on doesn't have the Arial font, even though Arial is a very common font available on most systems, the default system font is used instead. If you need to have a specific font available for your game, you can include the font file in the game directory and specify its location for the `pygame.font.Font` method.
+NB: different systems will have different fonts available. If the system this program is executed on doesn't have the Arial font, even though Arial is a very common font available on most systems, the default system font is used instead. If you need to have a specific font available for your game, you can include the font file in the game directory and specify its location for the `pygame.font.Font` method.
 
 ## Exercises
 

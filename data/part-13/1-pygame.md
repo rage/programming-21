@@ -20,7 +20,7 @@ In these last two parts of this course material we will get to grips with the py
 
 ### Linux
 
-Open a command line, type in `pip3 install pygame` an press `enter`.
+Open a command line, type in `pip3 install pygame` and press `enter`.
 
 <img src="pygame_linux.png">
 
@@ -144,7 +144,7 @@ The program uses this image of a robot, which is stored in the file `robot.png`:
 
 The file `robot.png` has to be in the same directory with the source code of the your program, or the program won't be able to find it. In the exercise templates for this part the images are waiting in the exercise directory.
 
-The window should no look like this:
+The window should now look like this:
 
 <img src="pygame_pic.gif">
 
@@ -180,7 +180,7 @@ The method `get_width` returns the width of the image, and the method `get_heigh
 
 <text-box variant='hint' name='Pygame exercises'>
 
-The exercises in this part of the course have no automated tests, as the results as visually verified. The tests grant points automatically as you submit your solution to the server, no matter what your implementation. Only submit your solution when you are ready, and your solution matches the exercise description. The exercises may not have automatic tests, but the course staff will still see your solution. If your solution clearly does not match the exercise description, you may lose the points granted for the exercises in this part.
+The exercises in this part of the course have no automated tests, as the results are visually verified. The tests grant points automatically as you submit your solution to the server, no matter what your implementation. Only submit your solution when you are ready, and your solution matches the exercise description. The exercises may not have automatic tests, but the course staff will still see your solution. If your solution clearly does not match the exercise description, you may lose the points granted for the exercises in this part.
 
 </text-box>
 
@@ -210,7 +210,7 @@ Please write a program which draws a hundred robots: ten rows with ten robots in
 
 <programming-exercise name='Random robots' tmcname='part13-04_random_robots'>
 
-Please write a program which draws _tuhat_ robottia satunnaisiin paikkoihin. The end result should look like this:
+Please write a program which draws a _thousand_ robots in random locations. The end result should look like this:
 
 <img src="pygame_thousand.gif">
 

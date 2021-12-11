@@ -88,7 +88,7 @@ The clock method `tick` is called at the end:
 
 The method `tick` takes care of the speed of the animation. The argument `60` dictates that the loop should be executed 60 times a second, which means that the image moves 60 pixels to the right each second. This approximately matches the _FPS_ or _frames per second_ value used with games.
 
-In principle, the `tick` method makes sure that the animation runs at the same speed on every computer. If there was no such timing involved, the spped of the animation would depend on the speed of the computer.
+In principle, the `tick` method makes sure that the animation runs at the same speed on every computer. If there was no such timing involved, the speed of the animation would depend on the speed of the computer.
 
 ## Bouncing off a wall
 
@@ -140,7 +140,7 @@ The following lines make the robot bounce off the side walls:
         velocity = -velocity
 ```
 
-If the velocity is above zero so that the robot is moving to the right, and the right edge if the image goes beyong the right edge of the window, the direction is reversed and the robot starts moving to the left. Similarly, if the velocity is beow zero so that the robot is moving to the left, and the left edge of the image reaches the left edge of the window, the direction is again reversed and the robot starts moving to the right again.
+If the velocity is above zero so that the robot is moving to the right, and the right edge of the image goes beyond the right edge of the window, the direction is reversed and the robot starts moving to the left. Similarly, if the velocity is below zero so that the robot is moving to the left, and the left edge of the image reaches the left edge of the window, the direction is again reversed and the robot starts moving to the right again.
 
 This makes the robot move on a path from the left edge of the window to the right edge, and back to the left, and then to the right again, repeated ad infinitum.
 
@@ -189,7 +189,7 @@ Rotation in a relatively precise circle is achieved with the help of some basic 
 
 The robot rotates around a circle of radius 100 around the centre of the window. The hypotenuse in this scenario is the radius of the circle. The cosine function gives the length of the _adjacent_ side of a right triangle in relation to the hypotenuse, which means that it gives us the `x` coordinate of the location. The sine function gives the length of the _opposite_ side, i.e. the `y` coordinate. The location is then adjusted for the size of the image, so that the centre of the circle is at the centre of the window.
 
-With each iteration the size of the `angle` is incremented by 0.01:llä. As we are using radians, a full circle is 2π, which equals about 6.28. It takes about 628 iterations for the robot to go a full circle, and at 60 iterations per second this takes just over 10 seconds.
+With each iteration the size of the `angle` is incremented by 0.01. As we are using radians, a full circle is 2π, which equals about 6.28. It takes about 628 iterations for the robot to go a full circle, and at 60 iterations per second this takes just over 10 seconds.
 
 <programming-exercise name='Vertical movement' tmcname='part13-05_vertical_movement'>
 
@@ -235,7 +235,7 @@ The exercise template contains the image `ball.png`.
 
 <programming-exercise name='Robot invasion' tmcname='part13-10_robot_invasion'>
 
-Please create an animation where robots fall from the sky randomly. When a robot reaches the ground, it starts moving to the left or to the right, and finaly disappears off the screen. The end result should look like this:
+Please create an animation where robots fall from the sky randomly. When a robot reaches the ground, it starts moving to the left or to the right, and finally disappears off the screen. The end result should look like this:
 
 <img src="pygame_invasion.gif">
 
