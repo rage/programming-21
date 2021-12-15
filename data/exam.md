@@ -36,19 +36,22 @@ sidebar_priority: 5000
 
 #### At the exam date
 
-<!--text-box variant="hint" name="Huomio">
-<notice>Exams sivulla on teknisiä ongelmia</notice>
+<text-box variant="hint" name="Note">
+<notice>There are technical issues with the Exams site</notice>
 
-Tässä ohje miten sivun saa toimimaan.
+Here are the instructions on how to make it work.
 
- Jos et pääse kirjautumaan examsiin, sivut näyttävät oudolle tai painikkeet sivulla eivät toimi:
- * Kokeile ensin päivittää (ladata uudelleen) sivu monta kertaa. Jos sivun päivittäminen ei auta, kokeile sivun avaamista toisella selaimella. Firefox ja Edge on todettu parhaiten toimiviksi. Chromella sivusto toimii huonoiten.
- * Jos sivu ei toimi toisellakaan selaimella, kokeile vielä silläkin päivittää sivua useamman kerran.
+Firefox and Edge have been found to work best. With Chrome, the site is performing the worst.
 
-</text-box-->
+ If you are unable to login to exams.mooc.fi, site looks odd or buttons in the pages are not working:
+ * Before opening the page, try clearing your browser's cookies and browser's cache. You can also open the site in private browsing mode (incognito mode).
+ * If the site is still not working, try refreshing (reloading) the page multiple times. If refreshing the page does not help, try opening the site with another browser.
+ * If using another browser does not help, try also with another browser refresh the page many times.
+
+</text-box>
 
 * In case of technical problems, the course instructor will be on standby **from 10:00 AM to 02:00 PM** on the [Discord](https://study.cs.helsinki.fi/discord/join/ohjelmointi21) at channel `ohjelmointi21_english`.
-* On the exam date **from 02:00 PM to 10:00 PM** discussion in the course's support channels is forbidden. The course's Discord is locked and messages cannot be sent to channels.
+<!--* On the exam date **from 02:00 PM to 10:00 PM** discussion in the course's support channels is forbidden. The course's Discord is locked and messages cannot be sent to channels.-->
 
 #### Fetching the programming task templates
 
