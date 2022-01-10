@@ -25,7 +25,7 @@ sidebar_priority: 5000
 #### Exam arrangements
 
 * Your solutions to the programming tasks in the exam will be submitted in the Visual Studio Code programming environment, in the same manner as the weekly exercises on the course.
-* The course exam can be taken on January 15th 2021 **between 10:00 AM and 10:00 PM**.
+* The course exam can be taken on January 15th 2022 **between 10:00 AM and 10:00 PM**.
 * The exam ends at 10:00 PM at the latest. If you want to be able to spend the maximum time allowed on the exam, you should **start at 6:00 PM at the latest**.
 * You will have **four hours** to complete the exam. If you have been granted extra time through special arrangements, you will have five hours to complete the exam, and should start at 5:00 PM at the latest.
 
