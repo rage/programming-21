@@ -1,19 +1,19 @@
 ---
-path: "/exam"
-title: "Introduction to Programming exam 15.1."
+path: "/exam-adv"
+title: "Advanced Course in Programming exam 15.1."
 information_page: true
-sidebar_priority: 5000
+sidebar_priority: 4500
 ---
 
-<!--# Introduction to Programming-->
+<!--# Advanced Course in Programming-->
 
 <text-box variant="hint" name="NB">
 
 <notice>Note, that at 15.1. it is possible to take exam on both courses.</notice>
 
-[Instructions](/exam-adv) for Advanced Course in Programming exam are on another page
+[Instructions](/exam) for Introduction to Programming exam are on another page
 
-<a href="/exam-adv">https://programming-21.mooc.fi/exam-adv</a>
+<a href="/exam">https://programming-21.mooc.fi/exam</a>
 
 </text-box>
 
@@ -63,7 +63,7 @@ Firefox and Edge have been found to work best. With Chrome, the site is performi
 2. Select the `My courses` view in the TMC menu.
 3. Click the `Add new course` button.
 4. Select the organization `Helsingin yliopisto`.
-5. Select the course `Introduction to Programming exam 15.1.2022`.
+5. Select the course `Advanced Course in Programming exam 15.1.2022`.
 6. Fetch the programming task templates.
 7. Try submitting the programming tasks.
 8. If you are able to submit the tasks, you are ready to take the exam. If not, get in touch with course instructors. Don't panic, we will work it out.
@@ -75,8 +75,8 @@ Please do not ask any questions about specific programming tasks assigned to you
 
 * The exam questions, in the form of programming task instructions, will become available at <a href="https://exams.mooc.fi/en">https://exams.mooc.fi/en</a> at 10:00 AM on the day of the exam.
 * You should use your usual mooc.fi login details to log in at the exam page.
-* Choose course `Introduction to Programming exam 15.1.2022`.
-* If you have been granted extra time through special arrangements, choose course `Introduction to Programming exam 15.1.2022 (EXTRA TIME)`.
+* Choose course `Advanced Course in Programming exam 15.1.2022`.
+* If you have been granted extra time through special arrangements, choose course `Advanced Course in Programming exam 15.1.2022 (EXTRA TIME)`.
 * Your allocated exam time will begin when you click on the link `Start exam`.
 
 #### Submitting your solutions
@@ -88,7 +88,7 @@ Please do not ask any questions about specific programming tasks assigned to you
 #### Finishing the exam
 
 * Please submit all your programming tasks one final time, within the exam time allocated to you, before finishing.
-* You can check the arrival of the exercises you have submitted to the server by logging in to the page [https://tmc.mooc.fi/org/hy/courses/969](https://tmc.mooc.fi/login?return_to=%2Forg%2Fhy%2Fcourses%2F969)
+* You can check the arrival of the exercises you have submitted to the server by logging in to the page [https://tmc.mooc.fi/org/hy/courses/970](https://tmc.mooc.fi/login?return_to=%2Forg%2Fhy%2Fcourses%2F970)
 * When you are done, you can close all Visual Studio Code tabs and windows, along with the exam question page. There is no need to do anything else.
 
 #### Exam results
