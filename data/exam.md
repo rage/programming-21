@@ -32,7 +32,7 @@ sidebar_priority: 5000
 
 * Read these instructions carefully
 * Fetch the the programming task templates and test submitting the exercises [by following to the instructions below](#fetching-the-programming-task-templates)
-* If you encounter problems with fetching the templates or submitting the exercises, you have other technical problems or questions about exam arrangements, you can ask for help in the course's [Discord](https://study.cs.helsinki.fi/discord/join/ohjelmointi21)
+* If you encounter problems with fetching the templates or submitting the exercises, you have other technical problems or questions about exam arrangements, you can ask for help in the course's [Discord](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc)
 
 #### At the exam date
 
@@ -50,7 +50,7 @@ Firefox and Edge have been found to work best. With Chrome, the site is performi
 
 </text-box>
 
-* In case of technical problems, the course instructor will be on standby **from 10:00 AM to 02:00 PM** on the [Discord](https://study.cs.helsinki.fi/discord/join/ohjelmointi21) at channel `ohjelmointi21_english`.
+* In case of technical problems, the course instructor will be on standby **from 10:00 AM to 02:00 PM** on the [Discord](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc) at channel `ohjelmoinnin_mooc_english`.
 <!--* On the exam date **from 02:00 PM to 10:00 PM** discussion in the course's support channels is forbidden. The course's Discord is locked and messages cannot be sent to channels.-->
 
 #### Fetching the programming task templates
