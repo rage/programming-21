@@ -38,7 +38,7 @@ sidebar_priority: 4500
 
 #### At the exam date
 
-<!--text-box variant="hint" name="Note">
+<text-box variant="hint" name="Note">
 <notice>There are technical issues with the Exams site</notice>
 
 Here are the instructions on how to make it work.
@@ -50,7 +50,7 @@ Firefox and Edge have been found to work best. With Chrome, the site is performi
  * If the site is still not working, try refreshing (reloading) the page multiple times. If refreshing the page does not help, try opening the site with another browser.
  * If using another browser does not help, try also with another browser refresh the page many times.
 
-</text-box-->
+</text-box>
 
 * In case of technical problems, the course instructor will be on standby **from 10:00 AM to 02:00 PM** on the [Discord](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc) at channel `ohjelmoinnin_mooc_english`.
 * On the exam date **from 02:00 PM to 10:00 PM** discussion in the course's support channels is forbidden. The course's Discord is locked and messages cannot be sent to channels.
