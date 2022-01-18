@@ -20,6 +20,7 @@ To pass the Python Programming MOOC courses you are expected to both complete ex
 
 * Thursday 16.12.21
 * Saturday 15.1.22
+* Saturday 26.2.22 (In grading of the exam, exercise points are counted as them were 15.1.2022 UTC+02:00)
 
 ## Taking a programming exam
 

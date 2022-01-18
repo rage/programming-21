@@ -7,6 +7,20 @@ banner: true
 sidebar_priority: 7000
 ---
 
+<text-box variant="hint" name="NB">
+
+<notice>Note, that this is an old course page.</notice>
+
+</br>
+
+<b>The course material for year 2022 can be found here: [https://programming-22.mooc.fi/](https://programming-22.mooc.fi/)</b>
+
+</br>
+
+<b>The last online exam of Advanced Course in Programming of year 2021 will be held on Saturday 26.2.22 between 10:00 AM and 10:00 PM UTC+02:00. In grading of the exam, exercise points are counted as them were 15.1.2022 UTC+02:00. More detailed exam instructions will be published on these pages before the exam date.</b>
+
+</text-box>
+
 This is the course material page for the Introduction to Programming course (TKT10002, 5 cr) and the Advanced Course in Programming (TKT10003, 5 cr) from the Department of Computer Science at the University of Helsinki.
 
 To pass either of the two courses you are expected to complete programming exercises and take part in an exam. Please see the [Grading and exams](/grading-and-exams) page for more details.
