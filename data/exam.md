@@ -1,21 +1,11 @@
 ---
 path: "/exam"
-title: "Introduction to Programming exam 15.1."
+title: "Exam 26.2."
 information_page: true
 sidebar_priority: 5000
 ---
 
-<!--# Introduction to Programming-->
-
-<text-box variant="hint" name="NB">
-
-<notice>Note, that at 15.1. it is possible to take exam on both courses.</notice>
-
-[Instructions](/exam-adv) for Advanced Course in Programming exam are on another page
-
-<a href="/exam-adv">https://programming-21.mooc.fi/exam-adv</a>
-
-</text-box>
+# Advanced Course in Programming
 
 #### Taking the programming exam
 
@@ -25,7 +15,7 @@ sidebar_priority: 5000
 #### Exam arrangements
 
 * Your solutions to the programming tasks in the exam will be submitted in the Visual Studio Code programming environment, in the same manner as the weekly exercises on the course.
-* The course exam can be taken on January 15th 2022 **between 10:00 AM and 10:00 PM**.
+* The course exam can be taken on February 26th 2022 **between 10:00 AM and 10:00 PM**.
 * The exam ends at 10:00 PM at the latest. If you want to be able to spend the maximum time allowed on the exam, you should **start at 6:00 PM at the latest**.
 * You will have **four hours** to complete the exam. If you have been granted extra time through special arrangements, you will have five hours to complete the exam, and should start at 5:00 PM at the latest.
 
@@ -52,8 +42,8 @@ Firefox and Edge have been found to work best. With Chrome, the site is performi
 
 </text-box>
 
-* In case of technical problems, the course instructor will be on standby **from 10:00 AM to 02:00 PM** on the [Discord](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc) at channel `ohjelmoinnin_mooc_english`.
-* On the exam date **from 02:00 PM to 10:00 PM** discussion in the course's support channels is forbidden. The course's Discord is locked and messages cannot be sent to channels.
+* In case of technical problems, the course instructor will be on standby **from 10:00 AM to 12:00 AM** on the [Discord](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc) at channel `ohjelmoinnin_mooc_english`.
+* On the exam date **from 12:00 AM to 10:00 PM** discussion in the course's support channels is forbidden. The course's Discord is locked and messages cannot be sent to channels.
 
 #### Fetching the programming task templates
 
@@ -63,7 +53,7 @@ Firefox and Edge have been found to work best. With Chrome, the site is performi
 2. Select the `My courses` view in the TMC menu.
 3. Click the `Add new course` button.
 4. Select the organization `Helsingin yliopisto`.
-5. Select the course `Introduction to Programming exam 15.1.2022`.
+5. Select the course `Advanced Course in Programming 2021, last exam`.
 6. Fetch the programming task templates.
 7. Try submitting the programming tasks.
 8. If you are able to submit the tasks, you are ready to take the exam. If not, get in touch with course instructors. Don't panic, we will work it out.
@@ -75,8 +65,8 @@ Please do not ask any questions about specific programming tasks assigned to you
 
 * The exam questions, in the form of programming task instructions, will become available at <a href="https://exams.mooc.fi/en">https://exams.mooc.fi/en</a> at 10:00 AM on the day of the exam.
 * You should use your usual mooc.fi login details to log in at the exam page.
-* Choose course `Introduction to Programming exam 15.1.2022`.
-* If you have been granted extra time through special arrangements, choose course `Introduction to Programming exam 15.1.2022 (EXTRA TIME)`.
+* Choose course `Advanced Course in Programming 2021, last exam`.
+* If you have been granted extra time through special arrangements, choose course `Advanced Course in Programming 2021, last exam (EXTRA TIME)`.
 * Your allocated exam time will begin when you click on the link `Start exam`.
 
 #### Submitting your solutions
@@ -88,7 +78,7 @@ Please do not ask any questions about specific programming tasks assigned to you
 #### Finishing the exam
 
 * Please submit all your programming tasks one final time, within the exam time allocated to you, before finishing.
-* You can check the arrival of the exercises you have submitted to the server by logging in to the page [https://tmc.mooc.fi/org/hy/courses/969](https://tmc.mooc.fi/login?return_to=%2Forg%2Fhy%2Fcourses%2F969)
+* You can check the arrival of the exercises you have submitted to the server by logging in to the page [https://tmc.mooc.fi/org/hy/courses/1001](https://tmc.mooc.fi/login?return_to=%2Forg%2Fhy%2Fcourses%2F1001)
 * When you are done, you can close all Visual Studio Code tabs and windows, along with the exam question page. There is no need to do anything else.
 
 #### Exam results

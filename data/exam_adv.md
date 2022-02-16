@@ -3,6 +3,7 @@ path: "/exam-adv"
 title: "Advanced Course in Programming exam 15.1."
 information_page: true
 sidebar_priority: 4500
+hide_in_sidebar: true
 ---
 
 <!--# Advanced Course in Programming-->
