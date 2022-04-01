@@ -15,10 +15,6 @@ sidebar_priority: 7000
 
 <b>The course material for year 2022 can be found here: [https://programming-22.mooc.fi/](https://programming-22.mooc.fi/)</b>
 
-</br>
-
-<b>The last online exam of Advanced Course in Programming of year 2021 will be held on Saturday 26.2.22 between 10:00 AM and 10:00 PM UTC+02:00. In grading of the exam, exercise points are counted as them were 15.1.2022 UTC+02:00.</b>
-
 </text-box>
 
 This is the course material page for the Introduction to Programming course (TKT10002, 5 cr) and the Advanced Course in Programming (TKT10003, 5 cr) from the Department of Computer Science at the University of Helsinki.
