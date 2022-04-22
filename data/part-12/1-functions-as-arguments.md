@@ -161,6 +161,7 @@ for product in sort_by_remaining_stock(products):
 ```
 
 <sample-output>
+
 orange 2 pcs
 apple 3 pcs
 banana 12 pcs
@@ -184,6 +185,7 @@ for show in sort_by_seasons(shows):
 ```
 
 <sample-output>
+
 Dexter 9 seasons
 Friends 10 seasons
 Simpsons 32 seasons
@@ -291,7 +293,7 @@ print(route3.name, route3.length, route3.grade)
 
 Edge, length 38 metres, grade 6A+
 Smooth operator, length 9 metres, grade 7A
-Synchro 14 8B+
+Synchro 14 8C+
 
 </sample-output>
 

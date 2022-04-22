@@ -16,7 +16,7 @@ The subject of the game is up to you, but it should be about as complicated as t
 * The game contains a counter which tells the player how they are doing in the game
 * The source code for the game is divided into functions like in the Sokoban example
 
-When the game is finished, submit it for peer revies with the following form. After this, familiarize yourself with the games of two of your coursemates, give the games a grade you deem appropriate,a dn write a short review of the game. Please take into account both how interesting and playable the game was, and how readable the program code is, when grading and reviewing the games.
+When the game is finished, submit it for peer review with the following form. After this, familiarize yourself with the games of two of your coursemates, give the games a grade you deem appropriate, and write a short review of the game. Please take into account both how interesting and playable the game was, and how readable the program code is, when grading and reviewing the games.
 
 ### Submitting the game
 
@@ -66,7 +66,7 @@ You should assess the game based on the following criteria:
 
 * What does the game look like?
 * Is the game *playable*? Is it fun to play and easy to use?
-* Is the game idea interresting?
+* Is the game idea interesting?
 * How well is it programmed? Is the code readable, and does it make appropriate use of classes and functions?
 
 A good review usually points out both good features and some suggestions for improvements.

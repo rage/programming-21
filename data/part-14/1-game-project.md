@@ -214,6 +214,6 @@ The `main_loop` method is rather short. With each iteration it calls two methods
 
 At this stage the only event actually handled by the game is closing the game window, e.g. from the exit button. The game then exits by calling the Python `exit` function.
 
-Each time `draw_window` method is called the entire game grid is matrix is traversed, and the image corresponding to each square in the grid is drawn in the correct location.
+Each time `draw_window` method is called the entire game grid matrix is traversed, and the image corresponding to each square in the grid is drawn in the correct location.
 
 NB: the coordinates x and y are used in two different ways in the game. When dealing with the indexes of a two-dimensional list, it is logical to give the y coordinate first, as the y refers to the number of the row while x is the number of the column. On the other hand, when using pygame methods, x is usually passed first, as it quite often is when dealing with graphics, and also in mathematical contexts.
